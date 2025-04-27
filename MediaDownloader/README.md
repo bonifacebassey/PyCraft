@@ -3,7 +3,6 @@
 **MediaDownloader** is a simple, clean tool to download videos or extract audio (MP3) from online platforms like Facebook and YouTube, using `yt-dlp`.  
 It supports selecting video quality, downloading audio directly, and saving files into a specified directory.
 
----
 
 ## Features
 - 🎥 Download videos in your preferred quality (e.g.,720p, 480p, 360p).
@@ -12,7 +11,6 @@ It supports selecting video quality, downloading audio directly, and saving file
 - 🔥 Supports Facebook, YouTube, and other platforms via `yt-dlp`.
 - 🟡 Clean filename handling (illegal characters removed).
 
----
 
 ## Requirements
 - Python 3.7+
@@ -44,8 +42,6 @@ Enter the video URL:
 Choose media type (video/audio) [video]:
 Choose quality (best/worst/720/480/360) [best]:
 ```
-
----
 
 ## Notes
 + Some URLs may not be downloadable due to platform restrictions or private settings.
